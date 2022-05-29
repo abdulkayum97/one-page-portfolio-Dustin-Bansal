@@ -1,0 +1,291 @@
+@media only screen and (min-width:320px) and (max-width:479px) {
+
+    #Home {
+        max-height: 600px;
+        background-position: center;
+    }
+
+    #Home .title h5 {
+        font-size: 16px;
+    }
+
+    #Home .title h1 {
+        font-size: 36px;
+        font-weight: bolder;
+    }
+
+    #Home .title h4 {
+        font-size: 18px;
+    }
+
+    #About .bottom .about_img {
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+
+    #About .bottom .about_img img {
+        width: 50%
+    }
+
+    #About .bottom ul li {
+        font-size: 14px;
+    }
+
+    #About .bottom h4 {
+        font-size: 22px;
+    }
+
+    #About .bottom p {
+        font-size: 15px;
+    }
+
+    #About .bottom .info {
+        width: 100%;
+        margin-left: 0%
+    }
+
+    #About .bottom ul {
+        width: 100%;
+    }
+
+    #Skill h2 {
+        font-size: 26px;
+    }
+
+    #Portfolio ul li a {
+        font-size: 14px;
+        padding: 10px 5px;
+    }
+
+    #Portfolio .part {
+        text-align: center;
+    }
+
+    #Portfolio .part img {
+        width: 80%;
+    }
+
+    .Available h4 {
+        display: block;
+        font-size: 20px;
+    }
+
+    .Available .button {
+        display: block;
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    #Blog .part {
+        width: 90%;
+        margin: auto;
+        margin-bottom: 50px;
+    }
+
+    #Contact input[type="text"],
+    #Contact input[type="email"] {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    #Contact form .msg {
+        width: 75%;
+        float: left;
+    }
+
+    #Contact form .button {
+        width: 25%;
+        float: left;
+    }
+}
+
+@media only screen and (min-width:480px) and (max-width:766px) {
+
+    #Home {
+        max-height: 600px;
+        background-position: center;
+    }
+
+    #Home .title h5 {
+        font-size: 18px;
+    }
+
+    #Home .title h1 {
+        font-size: 40px;
+        font-weight: bolder;
+    }
+
+    #Home .title h4 {
+        font-size: 20px;
+    }
+
+    #About .bottom .about_img {
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+
+    #About .bottom .about_img img {
+        width: 50%
+    }
+
+    #About .bottom h4 {
+        font-size: 22px;
+    }
+
+    #About .bottom p {
+        font-size: 16px;
+    }
+
+    #About .bottom .info {
+        width: 100%;
+        margin-left: 0%
+    }
+
+    #About .bottom ul {
+        width: 100%;
+    }
+
+    #Portfolio ul li a {
+        font-size: 14px;
+        padding: 10px 5px;
+    }
+
+    #Portfolio .part {
+        text-align: center;
+    }
+
+    #Portfolio .part img {
+        width: 80%;
+    }
+
+    .Available h4 {
+        display: block;
+    }
+
+    .Available .button {
+        display: block;
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    #Blog .part {
+        width: 80%;
+        margin: auto;
+        margin-bottom: 50px;
+    }
+
+
+    #Contact input[type="text"],
+    #Contact input[type="email"] {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+
+    #Contact form .msg {
+        width: 70%;
+        float: left;
+    }
+
+    #Contact form .button {
+        width: 30%;
+        float: left;
+    }
+}
+
+@media only screen and (min-width:767px) and (max-width:990px) {
+
+    #Home {
+        max-height: 650px;
+        background-position: center;
+    }
+
+    #Home .title h1 {
+        font-size: 44px;
+        font-weight: bolder;
+    }
+
+    #Home .title h4 {
+        font-size: 22px;
+    }
+
+    #About .bottom .about_img {
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+
+    #About .bottom .about_img img {
+        width: 50%
+    }
+
+    #About .bottom .info {
+        width: 100%;
+        margin-left: 0%
+    }
+
+    #Portfolio .part {
+        text-align: center;
+    }
+
+    #Portfolio .part img {
+        width: 60%;
+    }
+
+    #Blog .part {
+        width: 60%;
+        margin: auto;
+        margin-bottom: 50px;
+    }
+
+    #Contact input[type="text"],
+    #Contact input[type="email"] {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+
+    #Contact form .msg {
+        width: 70%;
+        float: left;
+    }
+
+    #Contact form .button {
+        width: 30%;
+        float: left;
+    }
+}
+
+@media only screen and (min-width:991px) and (max-width:1199px) {
+
+    #Home {
+        max-height: 650px;
+        background-position: center;
+    }
+
+    #Home .title h1 {
+        font-size: 54px;
+        font-weight: bolder;
+    }
+
+    #Contact input[type="text"],
+    #Contact input[type="email"] {
+        width: 49%;
+        margin-top: 20px;
+    }
+
+
+    #Contact form .msg {
+        width: 70%;
+        float: left;
+    }
+
+    #Contact form .button {
+        width: 30%;
+        float: left;
+    }
+
+
+}
